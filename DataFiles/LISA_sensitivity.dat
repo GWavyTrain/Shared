@@ -3,8 +3,9 @@
 # Armlength: 2.5 10^9 m
 
 # First column:  frequency [ Hz ]
-# Second column: PSD ( take square root and multiply by sqrt( f )
-#                      to get characteristic strain )
+# Second column: PSD
+# Characteristic strain: hc = sqrt( PSD * f ) )
+
    2.0000000000000002e-05	   3.0886941632289195e-29	
 
    2.0549765144018781e-05	   2.6253272015667651e-29	
